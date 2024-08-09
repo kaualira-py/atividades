@@ -11,4 +11,4 @@ for x in range(1,5):
     if d < c:
         d = c
         nm = mn
-print(f"Média {a/b} í nome do menor{mn} ì preçu do menor{c}")
+print(f"Média {a/b}, nome do menor{mn}, preço do menor{c}")
